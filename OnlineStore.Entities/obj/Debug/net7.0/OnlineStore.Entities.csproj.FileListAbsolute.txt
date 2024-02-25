@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\bin\Debug\net7.0\OnlineStore.Entities.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\bin\Debug\net7.0\OnlineStore.Entities.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\bin\Debug\net7.0\OnlineStore.Entities.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\obj\Debug\net7.0\OnlineStore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\obj\Debug\net7.0\OnlineStore.Entities.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\obj\Debug\net7.0\OnlineStore.Entities.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\obj\Debug\net7.0\OnlineStore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\obj\Debug\net7.0\OnlineStore.Entities.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\obj\Debug\net7.0\refint\OnlineStore.Entities.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\obj\Debug\net7.0\OnlineStore.Entities.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Entities\obj\Debug\net7.0\ref\OnlineStore.Entities.dll

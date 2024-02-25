@@ -1,0 +1,1000 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Identification\\OnlineStore.Identification.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.ApplicationSettings\\OnlineStore.ApplicationSettings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.ApplicationSettings\\OnlineStore.ApplicationSettings.csproj",
+        "projectName": "OnlineStore.ApplicationSettings",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.ApplicationSettings\\OnlineStore.ApplicationSettings.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.ApplicationSettings\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "NetEscapades.Configuration.Yaml": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Authorization.Extensions\\OnlineStore.Authorization.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Authorization.Extensions\\OnlineStore.Authorization.Extensions.csproj",
+        "projectName": "OnlineStore.Authorization.Extensions",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Authorization.Extensions\\OnlineStore.Authorization.Extensions.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Authorization.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj",
+        "projectName": "OnlineStore.Database",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.ApplicationSettings\\OnlineStore.ApplicationSettings.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.ApplicationSettings\\OnlineStore.ApplicationSettings.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj",
+        "projectName": "OnlineStore.Entities",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Identification\\OnlineStore.Identification.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Identification\\OnlineStore.Identification.csproj",
+        "projectName": "OnlineStore.Identification",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Identification\\OnlineStore.Identification.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Identification\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.ApplicationSettings\\OnlineStore.ApplicationSettings.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.ApplicationSettings\\OnlineStore.ApplicationSettings.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Authorization.Extensions\\OnlineStore.Authorization.Extensions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Authorization.Extensions\\OnlineStore.Authorization.Extensions.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace\\OnlineStore.MarketPlace.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace\\OnlineStore.MarketPlace.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Registration\\OnlineStore.Registration.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Registration\\OnlineStore.Registration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ChildForms.Caching\\OnlineStore.MarketPlace.ChildForms.Caching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ChildForms.Caching\\OnlineStore.MarketPlace.ChildForms.Caching.csproj",
+        "projectName": "OnlineStore.MarketPlace.ChildForms.Caching",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ChildForms.Caching\\OnlineStore.MarketPlace.ChildForms.Caching.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ChildForms.Caching\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[15.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.Extensions\\OnlineStore.MarketPlace.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.Extensions\\OnlineStore.MarketPlace.Extensions.csproj",
+        "projectName": "OnlineStore.MarketPlace.Extensions",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.Extensions\\OnlineStore.MarketPlace.Extensions.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.OrderControl\\OnlineStore.MarketPlace.OrderControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.OrderControl\\OnlineStore.MarketPlace.OrderControl.csproj",
+        "projectName": "OnlineStore.MarketPlace.OrderControl",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.OrderControl\\OnlineStore.MarketPlace.OrderControl.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.OrderControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.Extensions\\OnlineStore.MarketPlace.Extensions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.Extensions\\OnlineStore.MarketPlace.Extensions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.PersonalAccountControl\\OnlineStore.MarketPlace.PersonalAccountControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.PersonalAccountControl\\OnlineStore.MarketPlace.PersonalAccountControl.csproj",
+        "projectName": "OnlineStore.MarketPlace.PersonalAccountControl",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.PersonalAccountControl\\OnlineStore.MarketPlace.PersonalAccountControl.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.PersonalAccountControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ProductControl\\OnlineStore.MarketPlace.ProductControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ProductControl\\OnlineStore.MarketPlace.ProductControl.csproj",
+        "projectName": "OnlineStore.MarketPlace.ProductControl",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ProductControl\\OnlineStore.MarketPlace.ProductControl.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ProductControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ChildForms.Caching\\OnlineStore.MarketPlace.ChildForms.Caching.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ChildForms.Caching\\OnlineStore.MarketPlace.ChildForms.Caching.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.Extensions\\OnlineStore.MarketPlace.Extensions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.Extensions\\OnlineStore.MarketPlace.Extensions.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.OrderControl\\OnlineStore.MarketPlace.OrderControl.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.OrderControl\\OnlineStore.MarketPlace.OrderControl.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Tools\\OnlineStore.Tools.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Tools\\OnlineStore.Tools.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Windows.Controls\\OnlineStore.Windows.Controls.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Windows.Controls\\OnlineStore.Windows.Controls.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace\\OnlineStore.MarketPlace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace\\OnlineStore.MarketPlace.csproj",
+        "projectName": "OnlineStore.MarketPlace",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace\\OnlineStore.MarketPlace.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.OrderControl\\OnlineStore.MarketPlace.OrderControl.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.OrderControl\\OnlineStore.MarketPlace.OrderControl.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.PersonalAccountControl\\OnlineStore.MarketPlace.PersonalAccountControl.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.PersonalAccountControl\\OnlineStore.MarketPlace.PersonalAccountControl.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ProductControl\\OnlineStore.MarketPlace.ProductControl.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ProductControl\\OnlineStore.MarketPlace.ProductControl.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Windows.Controls\\OnlineStore.Windows.Controls.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Windows.Controls\\OnlineStore.Windows.Controls.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Registration\\OnlineStore.Registration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Registration\\OnlineStore.Registration.csproj",
+        "projectName": "OnlineStore.Registration",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Registration\\OnlineStore.Registration.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Registration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Authorization.Extensions\\OnlineStore.Authorization.Extensions.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Authorization.Extensions\\OnlineStore.Authorization.Extensions.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Database\\OnlineStore.Database.csproj"
+              },
+              "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj": {
+                "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Tools\\OnlineStore.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Tools\\OnlineStore.Tools.csproj",
+        "projectName": "OnlineStore.Tools",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Tools\\OnlineStore.Tools.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Windows.Controls\\OnlineStore.Windows.Controls.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Windows.Controls\\OnlineStore.Windows.Controls.csproj",
+        "projectName": "OnlineStore.Windows.Controls",
+        "projectPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Windows.Controls\\OnlineStore.Windows.Controls.csproj",
+        "packagesPath": "C:\\Users\\рс\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Windows.Controls\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\рс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

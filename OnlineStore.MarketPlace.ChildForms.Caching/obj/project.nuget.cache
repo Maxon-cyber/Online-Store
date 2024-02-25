@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHUjqRsOEysiRF9IY5aa9I6XWD2ikYylY2eYyU4EQg5YfuieSIydhrrGiK7DDeaF/CML8O9ywHO1n8yzWOgAxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ChildForms.Caching\\OnlineStore.MarketPlace.ChildForms.Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\рс\\.nuget\\packages\\yamldotnet\\15.1.1\\yamldotnet.15.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

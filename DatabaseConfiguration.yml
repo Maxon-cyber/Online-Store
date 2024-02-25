@@ -1,0 +1,4 @@
+Database:
+    MSSQLDatabase:
+        ConnectionString: Server=localhost\SQLEXPRESS;Database=demo_exam;Trusted_Connection=True;TrustServerCertificate=True;
+...

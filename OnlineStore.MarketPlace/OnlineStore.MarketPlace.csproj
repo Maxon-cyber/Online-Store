@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore.Entities\OnlineStore.Entities.csproj" />
+    <ProjectReference Include="..\OnlineStore.MarketPlace.OrderControl\OnlineStore.MarketPlace.OrderControl.csproj" />
+    <ProjectReference Include="..\OnlineStore.MarketPlace.PersonalAccountControl\OnlineStore.MarketPlace.PersonalAccountControl.csproj" />
+    <ProjectReference Include="..\OnlineStore.MarketPlace.ProductControl\OnlineStore.MarketPlace.ProductControl.csproj" />
+    <ProjectReference Include="..\OnlineStore.Windows.Controls\OnlineStore.Windows.Controls.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

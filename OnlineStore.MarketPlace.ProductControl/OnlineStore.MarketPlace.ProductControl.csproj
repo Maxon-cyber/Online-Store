@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore.Database\OnlineStore.Database.csproj" />
+    <ProjectReference Include="..\OnlineStore.Entities\OnlineStore.Entities.csproj" />
+    <ProjectReference Include="..\OnlineStore.MarketPlace.ChildForms.Caching\OnlineStore.MarketPlace.ChildForms.Caching.csproj" />
+    <ProjectReference Include="..\OnlineStore.MarketPlace.Extensions\OnlineStore.MarketPlace.Extensions.csproj" />
+    <ProjectReference Include="..\OnlineStore.MarketPlace.OrderControl\OnlineStore.MarketPlace.OrderControl.csproj" />
+    <ProjectReference Include="..\OnlineStore.Tools\OnlineStore.Tools.csproj" />
+    <ProjectReference Include="..\OnlineStore.Windows.Controls\OnlineStore.Windows.Controls.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OnlineStore.MarketPlace.PersonalAccountControl/1.0.0": {
+        "dependencies": {
+          "OnlineStore.Entities": "1.0.0"
+        },
+        "runtime": {
+          "OnlineStore.MarketPlace.PersonalAccountControl.dll": {}
+        }
+      },
+      "OnlineStore.Entities/1.0.0": {
+        "runtime": {
+          "OnlineStore.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineStore.MarketPlace.PersonalAccountControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineStore.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

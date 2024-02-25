@@ -1,0 +1,15 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\bin\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\bin\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\bin\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\bin\Debug\net7.0-windows\OnlineStore.Entities.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\bin\Debug\net7.0-windows\OnlineStore.Entities.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.csproj.CopyComplete
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\refint\OnlineStore.MarketPlace.ChildForms.Caching.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ChildForms.Caching\obj\Debug\net7.0-windows\ref\OnlineStore.MarketPlace.ChildForms.Caching.dll

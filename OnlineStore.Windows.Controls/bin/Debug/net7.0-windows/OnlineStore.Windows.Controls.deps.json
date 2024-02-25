@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OnlineStore.Windows.Controls/1.0.0": {
+        "runtime": {
+          "OnlineStore.Windows.Controls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineStore.Windows.Controls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

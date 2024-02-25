@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\bin\Debug\net7.0-windows\OnlineStore.Windows.Controls.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\bin\Debug\net7.0-windows\OnlineStore.Windows.Controls.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\bin\Debug\net7.0-windows\OnlineStore.Windows.Controls.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\obj\Debug\net7.0-windows\OnlineStore.Windows.Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\obj\Debug\net7.0-windows\OnlineStore.Windows.Controls.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\obj\Debug\net7.0-windows\OnlineStore.Windows.Controls.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\obj\Debug\net7.0-windows\OnlineStore.Windows.Controls.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\obj\Debug\net7.0-windows\OnlineStore.Windows.Controls.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\obj\Debug\net7.0-windows\refint\OnlineStore.Windows.Controls.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\obj\Debug\net7.0-windows\OnlineStore.Windows.Controls.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Windows.Controls\obj\Debug\net7.0-windows\ref\OnlineStore.Windows.Controls.dll

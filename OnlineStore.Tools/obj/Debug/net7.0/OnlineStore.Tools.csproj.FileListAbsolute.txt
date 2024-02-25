@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\bin\Debug\net7.0\OnlineStore.Tools.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\bin\Debug\net7.0\OnlineStore.Tools.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\bin\Debug\net7.0\OnlineStore.Tools.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\OnlineStore.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\OnlineStore.Tools.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\OnlineStore.Tools.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\OnlineStore.Tools.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\OnlineStore.Tools.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\refint\OnlineStore.Tools.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\OnlineStore.Tools.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\ref\OnlineStore.Tools.dll

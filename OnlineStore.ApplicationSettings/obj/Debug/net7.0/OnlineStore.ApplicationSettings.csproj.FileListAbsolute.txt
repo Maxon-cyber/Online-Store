@@ -1,0 +1,12 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\bin\Debug\net7.0\OnlineStore.ApplicationSettings.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\bin\Debug\net7.0\OnlineStore.ApplicationSettings.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\bin\Debug\net7.0\OnlineStore.ApplicationSettings.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\OnlineStore.ApplicationSettings.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\OnlineStore.ApplicationSettings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\OnlineStore.ApplicationSettings.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\OnlineStore.ApplicationSettings.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\OnlineStore.ApplicationSettings.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\OnlineStore.ApplicationSettings.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\refint\OnlineStore.ApplicationSettings.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\OnlineStore.ApplicationSettings.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.ApplicationSettings\obj\Debug\net7.0\ref\OnlineStore.ApplicationSettings.dll

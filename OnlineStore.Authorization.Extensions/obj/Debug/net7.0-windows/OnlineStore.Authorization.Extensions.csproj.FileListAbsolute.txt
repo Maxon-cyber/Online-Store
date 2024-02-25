@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\bin\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\bin\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\bin\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\refint\OnlineStore.Authorization.Extensions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\ref\OnlineStore.Authorization.Extensions.dll

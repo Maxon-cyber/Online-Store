@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\bin\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.deps.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\bin\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\bin\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.AssemblyInfo.cs
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\refint\OnlineStore.MarketPlace.Extensions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\ref\OnlineStore.MarketPlace.Extensions.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineStore.MarketPlace.PersonalAccountControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f243db902a6980322ae01b82d77bcf789cc2c43")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineStore.MarketPlace.PersonalAccountControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineStore.MarketPlace.PersonalAccountControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

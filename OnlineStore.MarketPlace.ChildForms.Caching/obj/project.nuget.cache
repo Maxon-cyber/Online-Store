@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NHUjqRsOEysiRF9IY5aa9I6XWD2ikYylY2eYyU4EQg5YfuieSIydhrrGiK7DDeaF/CML8O9ywHO1n8yzWOgAxg==",
+  "dgSpecHash": "ixMjH0TPJwXon/7y0JdjpINp18B3+JXLq00xnlHCtkCgjajMGZw0AzNOeqfiqzmnGqU/aK7+E/LJQ5G4kEQHcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.MarketPlace.ChildForms.Caching\\OnlineStore.MarketPlace.ChildForms.Caching.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\рс\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\рс\\.nuget\\packages\\yamldotnet\\15.1.1\\yamldotnet.15.1.1.nupkg.sha512"
   ],
   "logs": []

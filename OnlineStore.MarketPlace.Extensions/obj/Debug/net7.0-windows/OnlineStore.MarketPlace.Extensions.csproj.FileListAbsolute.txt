@@ -9,3 +9,4 @@ C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\De
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\refint\OnlineStore.MarketPlace.Extensions.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.pdb
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\ref\OnlineStore.MarketPlace.Extensions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.Extensions\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.Extensions.sourcelink.json

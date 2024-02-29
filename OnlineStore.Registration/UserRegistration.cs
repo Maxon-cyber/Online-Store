@@ -2,6 +2,7 @@
 using OnlineStore.Database;
 using OnlineStore.Database.Sql.Queries;
 using OnlineStore.Entities.User;
+using OnlineStore.Entities.User.UserParameters;
 
 namespace OnlineStore.Registration;
 

@@ -9,3 +9,4 @@ C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\refint\OnlineStore.Authorization.Extensions.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.pdb
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\ref\OnlineStore.Authorization.Extensions.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Authorization.Extensions\obj\Debug\net7.0-windows\OnlineStore.Authorization.Extensions.sourcelink.json

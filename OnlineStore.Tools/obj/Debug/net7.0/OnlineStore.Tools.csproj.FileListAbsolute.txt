@@ -9,3 +9,4 @@ C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\Online
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\refint\OnlineStore.Tools.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\OnlineStore.Tools.pdb
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\ref\OnlineStore.Tools.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Tools\obj\Debug\net7.0\OnlineStore.Tools.sourcelink.json

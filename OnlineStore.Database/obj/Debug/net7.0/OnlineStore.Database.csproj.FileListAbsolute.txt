@@ -6,12 +6,14 @@ C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\bin\Debug\net7.0\Onl
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\bin\Debug\net7.0\OnlineStore.ApplicationSettings.pdb
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\bin\Debug\net7.0\OnlineStore.Entities.pdb
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.csproj.AssemblyReference.cache
-C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.AssemblyInfoInputs.cache
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.AssemblyInfo.cs
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.csproj.CoreCompileInputs.cache
-C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.csproj.CopyComplete
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\refint\OnlineStore.Database.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.pdb
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\ref\OnlineStore.Database.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.sourcelink.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineSt.D88FBC79.Up2Date
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\obj\Debug\net7.0\OnlineStore.Database.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.Database\bin\Debug\net7.0\Config.yaml

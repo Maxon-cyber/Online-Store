@@ -1,6 +1,5 @@
 ﻿using OnlineStore.Entities;
 using OnlineStore.MarketPlace.ChildForms.Caching.CacheEnviroment;
-using System.Collections.ObjectModel;
 using YamlDotNet.RepresentationModel;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
@@ -55,11 +54,12 @@ public sealed class Cache
         return null;
     }
 
-    public async Task<string[]?> ReadAllAsync()
+    public async Task<TEntity[]?> ReadAllAsync<TEntity>()
+        where TEntity : IEntity
     {
         string[] result = await File.ReadAllLinesAsync("");
 
-        return result;
+        return null;
     }
 
     public async Task<string> WriteAsync<TEntity>(TEntity entity)

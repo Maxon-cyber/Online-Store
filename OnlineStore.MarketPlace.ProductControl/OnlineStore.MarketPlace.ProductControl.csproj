@@ -14,7 +14,6 @@
     <ProjectReference Include="..\OnlineStore.MarketPlace.ChildForms.Caching\OnlineStore.MarketPlace.ChildForms.Caching.csproj" />
     <ProjectReference Include="..\OnlineStore.MarketPlace.Extensions\OnlineStore.MarketPlace.Extensions.csproj" />
     <ProjectReference Include="..\OnlineStore.MarketPlace.OrderControl\OnlineStore.MarketPlace.OrderControl.csproj" />
-    <ProjectReference Include="..\OnlineStore.Tools\OnlineStore.Tools.csproj" />
     <ProjectReference Include="..\OnlineStore.Windows.Controls\OnlineStore.Windows.Controls.csproj" />
   </ItemGroup>
 

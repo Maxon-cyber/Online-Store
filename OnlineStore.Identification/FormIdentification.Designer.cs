@@ -1,8 +1,11 @@
-﻿namespace OnlineStore.Identification;
+﻿using OnlineStore.Registration;
+
+namespace OnlineStore.Identification;
 
 public sealed partial class FormIdentification
 {
     private System.ComponentModel.IContainer _components = null;
+    private readonly Lazy<RegistrationForm> _registrationForm = new Lazy<RegistrationForm>(() => new RegistrationForm());
 
     protected override void Dispose(bool disposing)
     {

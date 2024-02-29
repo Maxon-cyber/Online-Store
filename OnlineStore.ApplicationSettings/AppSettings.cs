@@ -19,7 +19,9 @@ public static class AppSettings
             if (string.IsNullOrWhiteSpace(currentPath))
                 throw new ArgumentNullException(nameof(currentPath), $"Элемент массива {nameof(fileNames)} не проинициализирован");
 
-            _configurationBuilder.AddYamlFile(currentPath, true, true);
+
+            _configurationBuilder
+                .AddYamlFile(currentPath, true, true);
         }
 
         _configurationRoot = _configurationBuilder.Build();
@@ -29,12 +31,12 @@ public static class AppSettings
     {
         if (_configurationRoot == null)
             throw new NullReferenceException($"{nameof(_configurationRoot)} не проинициализирован");
-        
-        string? connectionString = _configurationRoot.GetSection(needSection)
+
+        string? result = _configurationRoot.GetSection(needSection)
                                                      .GetSection(key)
                                                      .GetSection(value)
                                                      .Value;
-        return connectionString;
+        return result;
     }
 
     public static string? GetValue(string needSection, string[] keys, string value)
@@ -47,8 +49,8 @@ public static class AppSettings
         for (int index = 0; index < keys.Length; index++)
             section.GetSection(keys[index]);
 
-        string? connectionString = section.GetSection(value).Value;
+        string? result = section.GetSection(value).Value;
 
-        return connectionString;
+        return result;
     }
 }

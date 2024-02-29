@@ -16,11 +16,9 @@ C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\bi
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.csproj.AssemblyReference.cache
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.ProductForm.resources
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.csproj.GenerateResource.cache
-C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.AssemblyInfoInputs.cache
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.AssemblyInfo.cs
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.csproj.CoreCompileInputs.cache
-C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.csproj.CopyComplete
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\refint\OnlineStore.MarketPlace.ProductControl.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.pdb
@@ -29,3 +27,7 @@ C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\bi
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\bin\Debug\net7.0-windows\OnlineStore.MarketPlace.ChildForms.Caching.pdb
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\bin\Debug\net7.0-windows\OnlineStore.Tools.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\bin\Debug\net7.0-windows\OnlineStore.Tools.pdb
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.sourcelink.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineSt.E0BAB05B.Up2Date
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.ProductControl.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.ProductControl\bin\Debug\net7.0-windows\Config.yaml

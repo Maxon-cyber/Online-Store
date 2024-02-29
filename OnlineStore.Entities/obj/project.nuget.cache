@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nqvdroCL+FgqdUpWh1Jtr1IGRsdyOKOWx38rv7/pWEM+6mpzN9HgqkG+Y2LQYzyte49jZ3uk+/9zvPCnpMP/zQ==",
+  "dgSpecHash": "1SFSUqoY4RHxkyxFSm3Due3D9vS0kUFl/SwNx/2Xsz5QZAtEbYj3ae39InJ90+7HQkeCnMIErZ4XQnmh4oyPKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\рс\\source\\repos\\OnlineStore\\OnlineStore.Entities\\OnlineStore.Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\рс\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

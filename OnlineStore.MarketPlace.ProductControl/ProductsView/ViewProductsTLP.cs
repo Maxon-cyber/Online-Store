@@ -1,30 +1,29 @@
 ﻿using OnlineStore.Database;
 using OnlineStore.Database.Sql.Queries;
 using OnlineStore.Entities.Product;
+using OnlineStore.Entities.User.UserParameters.Internet;
 using OnlineStore.MarketPlace.ChildForms.Caching;
 using OnlineStore.MarketPlace.Extensions;
 using OnlineStore.MarketPlace.ProductControl.ProductsView.Container;
-using OnlineStore.Tools;
 
 namespace OnlineStore.MarketPlace.ProductControl.ProductsView;
 
 internal sealed class ViewProductsTLP(TableLayoutPanel viewTableLayoutPanel, ProgressBar progressBar) : IDisposable
 {
+    private readonly Cache _cache = new Cache();
     private readonly ProductViewContainer _container = new ProductViewContainer();
 
     internal async Task AddItemsAsync()
     {
-        if (!InternetAvailability.IsInternetAvailable())
-        {
-           
-            
-        }
-        Cache cache1 = new Cache();
-        await using DatabaseMapper database = new DatabaseMapper(StoredProcedure.GetProducts);
-
         ProductEntity[]? products = null;
-        
-        products = await database.GetEntitiesAsync<ProductEntity>();
+
+        if (!InternetAvailability.IsInternetAvailable())
+            products = await _cache.ReadAllAsync<ProductEntity>();
+        else
+        {
+            await using DatabaseMapper database = new DatabaseMapper(StoredProcedure.GetProducts);
+            products = await database.GetEntitiesAsync<ProductEntity>();
+        }
 
         int countOfProducts = products.Length;
 

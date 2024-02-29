@@ -12,12 +12,14 @@ C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\bin\
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.csproj.AssemblyReference.cache
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.OrderForm.resources
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.csproj.GenerateResource.cache
-C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.AssemblyInfoInputs.cache
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.AssemblyInfo.cs
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.csproj.CoreCompileInputs.cache
-C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.csproj.CopyComplete
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\refint\OnlineStore.MarketPlace.OrderControl.dll
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.pdb
 C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\ref\OnlineStore.MarketPlace.OrderControl.dll
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.sourcelink.json
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineSt.11FD4FF4.Up2Date
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\obj\Debug\net7.0-windows\OnlineStore.MarketPlace.OrderControl.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\OnlineStore\OnlineStore.MarketPlace.OrderControl\bin\Debug\net7.0-windows\Config.yaml
